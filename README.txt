@@ -5,8 +5,6 @@ This program tries to simulate the behavior of a cache memory. It takes as input
 the parameters of the cache memory 'cache.config' and a file containing information about accesses to the cache 'cache.access'. 
 The program outputs the details of each access, such as the set index, whether it was a hit or a miss, and the tag value.
 
-Parts Supported:- ALL (1, 2, 3 and 4)
-
 Compilation
 -----------
 1. Navigate to the project directory.
